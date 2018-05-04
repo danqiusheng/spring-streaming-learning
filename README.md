@@ -17,7 +17,7 @@
     ````
     spring.cloud.stream.bindings.<channelName>.<key>=value
     ````
-
+  
 - 自定义方法
 自定义Sink，类似
 ````
